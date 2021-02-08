@@ -1,0 +1,40 @@
+_repo: Illuminated-illustrations-of-Froissart-Selected-from-the-ms-in-the-Bibliotheque-royale-Paris-__64454
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Humphreys, Henry Noel
+    aliases:
+    - Humphreys, H. Noel (Henry Noel)
+    - Humphreys, H. N.
+    birthdate: 1810
+    deathdate: 1879
+    gutenberg_agent_id: '42986'
+    url: http://www.gutenberg.org/2009/agents/42986
+creator:
+  author:
+    agent_name: Froissart, Jean
+    aliases:
+    - Frossardus, Joannes
+    - Froissart, John
+    - Froyssart, Johan
+    - Froissart, Jehan
+    gutenberg_agent_id: '5170'
+    url: http://www.gutenberg.org/2009/agents/5170
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jean_Froissart
+    - https://fr.wikipedia.org/wiki/Jean_Froissart
+description: ''
+gutenberg_issued: '2021-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64454'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Illuminated illustrations of Froissart;
+
+  Selected from the ms. in the Bibliothèque royale, Paris, and from other sources'
+url: http://www.gutenberg.org/ebooks/64454
