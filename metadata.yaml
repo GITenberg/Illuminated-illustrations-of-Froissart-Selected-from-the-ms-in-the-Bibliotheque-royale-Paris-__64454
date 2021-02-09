@@ -10,6 +10,9 @@ contributor:
     deathdate: 1879
     gutenberg_agent_id: '42986'
     url: http://www.gutenberg.org/2009/agents/42986
+covers:
+- cover_type: archival
+  image_path: 64454-h/images/cover.jpg
 creator:
   author:
     agent_name: Froissart, Jean
@@ -24,6 +27,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean_Froissart
     - https://fr.wikipedia.org/wiki/Jean_Froissart
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64454#Illuminated-illustrations-of-Froissart-Selected-from-the-ms-in-the-Bibliotheque-royale-Paris-_
 gutenberg_issued: '2021-02-03'
 gutenberg_type: Text
 identifiers:
